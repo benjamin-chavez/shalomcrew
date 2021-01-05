@@ -1,0 +1,25 @@
+body {
+  background: #ecedfa;
+  color: rgb(20, 20, 20);
+  font-family: 'Open Sans', arial, sans-serif;
+}
+
+#home-section {
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)),
+    url(/img1\ -\ Banner\ image.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 30%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: transparent;
+  color: white;
+}
+
+.banner-text {
+  justify-content: center;
+  display: flex;
+  height: 50vh;
+}
